@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616583166 source:d:\code\codeforce_div2_21032021\bai e\code_nguoikhac\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+	<ext/pb_ds/tree_policy.hpp>
+
+1617102490 source:d:\code\codeforce_div2_21032021_709\bai e\code_nguoikhac\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+	<ext/pb_ds/tree_policy.hpp>
+
